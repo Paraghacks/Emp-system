@@ -1,0 +1,17 @@
+*{font-size:105%;}
+
+  
+  
+.nav a
+{
+color:black;
+text-decoration:none;
+  margin:5%;
+}
+body{
+background:linear-gradient(rgba(198, 59, 250,.8),rgba(198, 59, 250,.8)), url("C:\Users\Parag\OneDrive\Desktop\p4_emapp\src\bg.jpg");
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+}
+  
